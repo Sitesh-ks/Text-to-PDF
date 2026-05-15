@@ -4,10 +4,7 @@ No signup.
 No API.
 Just clean conversion.
 
----
 
-## Live Demo
-https://text-to-pdf-one.vercel.app/
 
 ---
 
@@ -63,7 +60,6 @@ Your content never leaves your device.
 ## Installation
 ```bash
 # Clone the repo
-git clone https://github.com/berkinyilmaz/text-to-pdf.git
 
 # Install dependencies
 cd text-to-pdf
